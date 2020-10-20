@@ -1,0 +1,27 @@
+ul{
+    background-color:darkblue;
+    list-style-type: none;
+    padding: 0;
+}
+ul li{
+    display:inline-block;
+}
+ul li a {
+    padding: 10px 30px;
+    text-decoration: none;
+    display: block;
+    color: white;
+}
+td, th{
+    text-align:center;
+    color:white;
+}
+caption{
+    caption-side:top;
+}
+tbody tr:nth-child(n + 1){
+    background-color:darkblue;
+}
+.mytable{
+    overflow-x:auto
+}
