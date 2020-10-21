@@ -25,3 +25,6 @@ tbody tr:nth-child(n + 1){
 .mytable{
     overflow-x:auto
 }
+.mylink{
+    padding:20px;
+}
